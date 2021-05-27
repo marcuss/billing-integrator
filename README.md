@@ -1,2 +1,2 @@
 # billing-integrator
-Billing Integrator to receive notification when an app is sold. 
+Billing Integrator to receive notifications when an app is sold. 
